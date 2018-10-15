@@ -11,66 +11,48 @@ type: page
 
 ## 工具
 
-* [box-shadow generator](http://www.cssmatic.com/box-shadow)
-
-    生成 box-shadow 的工具。
-
-* [gradient-generator](http://www.cssmatic.com/gradient-generator)
-
-    渐变生成器。
-
-* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-
-    也是渐变生成器
-
-* [CSS Generators -CSSREFLEX](http://www.cssreflex.com/css-generators/)
-
-    CSS3 生成器
-
-- [tiny png](https://tinypng.com/)
+- [tiny png](https://tinypng.com/){:target="_blank"}
 
     用于压缩 png 或 jpg 的在线工具
 
-* [图床 https://sm.ms/](https://sm.ms/)
+* [新浪微博图床 Chrome扩展](https://github.com/Suxiaogang/WeiboPicBed){:target="_blank"}
 
-    有 API 可用。
+* [Unix 时间戳 Unix timestamp](http://tool.chinaz.com/Tools/unixtime.aspx){:target="_blank"}
 
-* [新浪微博图床 Chrome扩展](https://github.com/Suxiaogang/WeiboPicBed)
-
-* [Unix 时间戳 Unix timestamp](http://tool.chinaz.com/Tools/unixtime.aspx)
-
-- [在线正则表达式匹配](https://regex101.com/)
-    - 这个功能更强大一点，能清楚的区分出贪婪和懒惰正则。
-- [http://regexr.com/](http://regexr.com/)
-- [google fonts](https://fonts.google.com/)
-  - [Google Fonts 加速代理](https://fengmk2.com/blog/2016/google-fonts-mirror)
+- [在线正则表达式匹配](https://regex101.com/){:target="_blank"}
 
 ## 编程语言
 
 ### JavaScript
 
-* [JavaScript 标准参考教程（alpha） -阮一峰](http://javascript.ruanyifeng.com/)
+* [JavaScript 标准参考教程（alpha） -阮一峰](http://javascript.ruanyifeng.com/){:target="_blank"}
 
-* [JavaScript Promise迷你书 -azu](http://liubin.org/promises-book/)
+* [JavaScript Promise迷你书 -azu](http://liubin.org/promises-book/){:target="_blank"}
 
-* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS){:target="_blank"}
 
-* [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
+* [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md){:target="_blank"}
 
     前端发展很快，现代浏览器原生 API 已经足够好用。我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API。同时由于 React、Angular、Vue 等框架的流行，直接操作 DOM 不再是好的模式，jQuery 使用场景大大减少。本项目总结了大部分 jQuery API 替代的方法，暂时只支持 IE10+ 以上浏览器。
 
-- [YOU MIGHT NOT NEED JQUERY PLUGINS](http://youmightnotneedjqueryplugins.com/)
+- [YOU MIGHT NOT NEED JQUERY PLUGINS](http://youmightnotneedjqueryplugins.com/){:target="_blank"}
 
-* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/){:target="_blank"}
 
-* [JavaScript 设计模式 系列 AlloyTeam](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)
+* [JavaScript 设计模式 系列 AlloyTeam](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/){:target="_blank"}
 
 ### ES2015
 
-- [https://tc39.github.io/ecma262/](https://tc39.github.io/ecma262/)
-* [http://www.ecma-international.org/ecma-262/6.0/](http://www.ecma-international.org/ecma-262/6.0/)
+- [https://tc39.github.io/ecma262/](https://tc39.github.io/ecma262/){:target="_blank"}
+* [http://www.ecma-international.org/ecma-262/6.0/](http://www.ecma-international.org/ecma-262/6.0/){:target="_blank"} 
 
-    ES2015规范
+
+### CSS
+
+* [css世界](http://www.iamtxt.com/ebook/24021.html){:target="_blank"}
+
+
+### ES2015规范
 
 - [http://es6katas.org/](http://es6katas.org/)
 
